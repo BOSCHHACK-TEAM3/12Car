@@ -1,0 +1,15 @@
+IOT链接
+HostName=WeRide.azure-devices.cn;DeviceId=12Car;SharedAccessKey=sj4BKWaDrQjyyKt/O26CDZWuG4KFszaF5XXljzBv7RM=
+
+密钥
+npTLK8Ge2ucmLSMIMj/FJJnKvHmkjqsr7vuK6HudvSU=
+fcD4DC+eByMZW+EgDy9G8l6vQkNhWFOfaL+TYbPZzlQ=
+链接字符串
+HostName=WeRide.azure-devices.cn;SharedAccessKeyName=iothubowner;SharedAccessKey=npTLK8Ge2ucmLSMIMj/FJJnKvHmkjqsr7vuK6HudvSU=
+HostName=WeRide.azure-devices.cn;SharedAccessKeyName=iothubowner;SharedAccessKey=fcD4DC+eByMZW+EgDy9G8l6vQkNhWFOfaL+TYbPZzlQ=
+
+名称 设置的权限 
+
+认知
+fff72c4d03e6462199e376449a16cfc0
+2ce1fdcbba3c4f4c996808807f545096
